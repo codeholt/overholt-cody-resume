@@ -18,7 +18,7 @@ title: Cody Overholt's Resume
 `2017-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- BS of Data Science
+- BS of Data Science 
 
 
 ## Related Experience
@@ -46,11 +46,11 @@ __Xactly Corporation__, Denver, CO
 - Built ETL Processes in Python for HR Analytics
 - Designed and Implemented Relational Database solutions in Snowflake
 - Managed Data Marts and visualizations in Tableau Online
-- Authored Detailed documentation for systems built
+- Authored Detailed documentation for systems built   
 
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
+`January 2027 - April 2027'
 __Imagine Learning__
 
 
