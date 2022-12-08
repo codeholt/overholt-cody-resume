@@ -18,7 +18,7 @@ title: Cody Overholt's Resume
 `2017-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- BS of Data Science 
+- Bachelor Degree in Data Science 
 
 
 ## Related Experience
@@ -30,7 +30,7 @@ __Statistical Consultant \| Research and Business Development Center for MOCA Sy
 
 - Analyzed and transformed government economic markers to identify inflation trends in the construction industry
 - Collaborated with diverse team to build ETL pipelines for use with machine learning application
-- Developed front end Application for client
+- Developed front end application for client
 
 `May 2022 - July 2022`
 __Mobile App Developer__, Rexburg, ID
@@ -46,11 +46,11 @@ __Xactly Corporation__, Denver, CO
 - Built ETL Processes in Python for HR Analytics
 - Designed and Implemented Relational Database solutions in Snowflake
 - Managed Data Marts and visualizations in Tableau Online
-- Authored Detailed documentation for systems built   
+- Authored detailed documentation for systems built   
 
 ### Data Science Consulting Team
 
-`January 2027 - April 2027'
+`January 2022 - April 2022'
 __Imagine Learning__
 
 
